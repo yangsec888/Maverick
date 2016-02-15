@@ -94,7 +94,7 @@ Usage Examples:
 
 
 How do I report the bugs, or maybe require some new features? 
-Contact the author Yang Li directly at email 'Yang.Li@usc-bt.com' or phone (917) 667.1972
+Contact the author Yang Li directly at email 'Yang.Li@owasp.org'
 
 
 
