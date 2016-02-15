@@ -42,6 +42,7 @@ to download and install the following modules from CPAN.org:
 	Spreadsheet::ParseExcel::SaveParser;			
 	Data::Dumper;
 	Encode;
+	OLE::Storage_Lite;
 To install the above modules, you may need the 'root' or 'administrator' privilege in the box. You could follow the 
 package instructions to manually install them one by one. It could be a long process as the modules may have dependencies  
 requirement. I found it's faster to start with CPAN.pm installer method below whenever I can:
